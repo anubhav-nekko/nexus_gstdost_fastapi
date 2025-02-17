@@ -1,0 +1,10 @@
+fastapi
+pydantic
+numpy
+faiss-cpu
+boto3
+fitz  # PyMuPDF
+sentence-transformers
+tavily-python
+requests
+uvicorn
