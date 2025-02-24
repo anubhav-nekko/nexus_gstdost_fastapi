@@ -3,7 +3,7 @@ pydantic
 numpy
 faiss-cpu
 boto3
-fitz  # PyMuPDF
+PyMuPDF
 sentence-transformers
 tavily-python
 requests
